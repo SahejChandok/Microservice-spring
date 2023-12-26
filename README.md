@@ -1,5 +1,6 @@
 # Spring Boot Microservice for CRUD Operations
-This Spring Boot microservice is designed to perform CRUD (Create, Read, Update, Delete) operations, focusing on storing, updating, and fetching data from a MySQL database.
+This Spring Boot microservice is designed to perform CRUD (Create, Read, Update, Delete) operations, focusing on storing, updating, and fetching data from a MySQL database. Specifically JPA repository is used,
+because it contains the API for crud repository api and paginationAndSorting repository
 
 ## API Testing
 To interact with the API, use the following request body format:

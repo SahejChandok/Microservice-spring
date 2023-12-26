@@ -1,10 +1,10 @@
-##Spring Boot Microservice for CRUD Operations
+# Spring Boot Microservice for CRUD Operations
 This Spring Boot microservice is designed to perform CRUD (Create, Read, Update, Delete) operations, focusing on storing, updating, and fetching data from a MySQL database.
 
-#API Testing
+## API Testing
 To interact with the API, use the following request body format:
 
-#json
+## json
 {
     "location": "Mumbai",
     "principalName": "Singh",
